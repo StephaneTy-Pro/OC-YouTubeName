@@ -1,0 +1,8 @@
+Projet2;Intégrez un thème Wordpress pour un client (P2)
+Projet3;Analysez les besoins de votre client pour son Festival de films (P3)
+Projet4;Concevez la solution technique d'une application de restauration en ligne, Express Food (P4)
+Projet5;Créez votre premier blog en PHP (P5)
+Projet6;Développez de A à Z le site communautaire SnowTricks (P6)
+Projet7;Créez un site e-commerce exposant une API (P7)
+Projet8;Améliorez une application existante de ToDo & Co (P8)
+Projet9;Effectuez un stage OU construisez une veille technologique (P 9)

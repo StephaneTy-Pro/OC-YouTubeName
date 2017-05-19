@@ -1,0 +1,5 @@
+Projet2;Réalisez un apprentissage distribué (P2)
+Projet3;Traitez des données en temps réel (P3)
+Projet4;Analysez des données en batch (P4)
+Projet5;Développez une architecture Big Data complète (P5)
+Projet6;Effectuez une veille technologique ou un stage (P6)

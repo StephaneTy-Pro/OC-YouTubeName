@@ -1,0 +1,8 @@
+Projet2;Analysez des données nutritionnelles (P2)
+Projet3;Développez un moteur de recommandations de films (P3)
+Projet4;Anticipez le retard de vol des avions (P4)
+Projet5;Segmentez les comportements de clients (P5)
+Projet6;Catégorisez automatiquement des questions (P6)
+Projet7;Réalisez des indexations automatiques d’images (P7)
+Projet8;Effectuez une veille thématique ou un stage (P8)
+Projet9;Participez à une compétition Kaggle ! (P9)

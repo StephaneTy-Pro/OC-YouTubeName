@@ -1,0 +1,6 @@
+Projet1;Créez et déployez un site en ligne (P1)
+Projet2;Initiez et lancez un projet Multimédia (P2)
+Projet3;Créez un blog pour un écrivain (P3)
+Projet4;Développez un back-end pour un client (P4)
+Projet5;Stage OU gestion de projet en équipe (P5)
+Projet6;Contribuez à votre écosystème (P6)

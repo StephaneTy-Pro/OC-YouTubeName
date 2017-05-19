@@ -1,0 +1,5 @@
+Projet1;Intégrez la maquette du site d'une agence web (P1)
+Projet2;Créez un thème WordPress (P2)
+Projet3;Concevez une carte interactive de location de vélos (P3)
+Projet4;Créez un blog pour un écrivain (P4)
+Projet5;Effectuez un stage OU présentez librement un projet personnel (P5)

@@ -1,0 +1,9 @@
+CPMD;CDPM_Dev;Chef de projet multimedia Developpement
+CPMS;CDPM_Design;Chef de projet multimedia Design
+CPMM;CDPM_DMark;Chef de projet multimedia Marketing
+DA;DATA ARCHITECT;Data Architecte
+DAF;DAF;Développeur d'Application F
+DAPSF;DA PHP/SF;Développeur d'Application PHP/SF
+DS;DATA SCIENTIST;Data scientist
+DWJ;DWJ;Developpeur Web Junior
+EII;EXPERT IE;Expert en ingénieurie informatique
