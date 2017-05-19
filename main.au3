@@ -138,9 +138,9 @@ Func update_res()
 	If $iIndex > -1 Then
 		;ConsoleWrite("line ~" & @ScriptLineNumber & " cherche index projet :" & $iIndex & @CRLF)
 		$saProjet = StringSplit($PROJET[$iIndex+1], ";", 1) ; index of gui starts from 0 but index of $parcours starts from 1
-		$sChaineRes = StringFormat("%s%s %s_%s_%s", $sPrefix, GUICtrlRead($Input1) , GUICtrlRead($Input2) , $saParcours[2], $saProjet[2] )
+		$sChaineRes = StringFormat("%s%s %s_%s_%s", $sPrefix, $saParcours[2], GUICtrlRead($Input1) , GUICtrlRead($Input2) ,  $saProjet[2] )
 	Else
-		$sChaineRes = StringFormat("%s%s %s_%s_%s", $sPrefix, GUICtrlRead($Input1), GUICtrlRead($Input2), $saParcours[2], "inconnu" )
+		$sChaineRes = StringFormat("%s%s %s_%s_%s", $sPrefix, $saParcours[2], GUICtrlRead($Input1), GUICtrlRead($Input2), "inconnu" )
 	EndIf
 
 	GUICtrlSetData($Input3, $sChaineRes )
